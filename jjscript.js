@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var container = document.querySelector('.parent-container');
 
     // 获取要交换的两个元素
-    var listCategoryDescription = document.querySelector('.list_category_description');
+    var listCategoryDescription = document.querySelector('.list_category_description editor_txt ck-content');
     var themesPlistRight = document.querySelector('.themes_plist_right');
 
     // 把`.themes_plist_right`移动到`.list_category_description`之前
