@@ -2,7 +2,7 @@
     position: relative;
 }
 
-.list_category_description.editor_txt.ck-content {
+.list_category_description editor_txt ck-content {
     position: absolute;
     top: 100px; /* 或其他值 */
 }
