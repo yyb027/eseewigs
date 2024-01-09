@@ -1,0 +1,10 @@
+.parent-container {
+    display: flex;
+    flex-direction: column;
+}
+.list_category_description editor_txt ck-content {
+    order: 2;
+}
+.themes_plist_right {
+    order: 1;
+}
